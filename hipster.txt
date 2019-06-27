@@ -9,3 +9,6 @@ In 2004 Khan was ranked as the 7th Best looking man in the world by People Magaz
 one more paragraph added. now newfile.txt is in stage area. and this one is modified.
 
 lol. im again modifyig file.
+
+
+change 1 for self.
