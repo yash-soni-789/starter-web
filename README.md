@@ -15,3 +15,4 @@ dummy data.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+Do whatever you can.
