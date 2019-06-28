@@ -18,6 +18,8 @@ dummy data. deployment done.
 ## How To Contribute
 Do whatever you can. i added oe more line for video 45.
 
+please fork this repository and issue pull request.
+
 
 ## Copyright
 
